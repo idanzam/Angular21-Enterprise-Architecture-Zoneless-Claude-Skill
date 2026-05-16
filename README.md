@@ -113,7 +113,7 @@ Angular21-Enterprise-Architecture-Zoneless/
 Add to your project root:
 
 ```bash
-curl -O https://raw.githubusercontent.com/idanzam/Angular21-Enterprise-Architecture-Zoneless/main/CLAUDE.md
+curl -O https://github.com/idanzam/Angular21-Enterprise-Architecture-Zoneless-Claude-Skill/edit/main/CLAUDE.md
 ```
 
 Then in Claude Code:
