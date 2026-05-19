@@ -434,7 +434,7 @@ This architecture powers **Pool4Ever Exchange** — a live cryptocurrency exchan
 - Enterprise dashboard
 - 24/7 production uptime
 
-→ [exchange.pool4ever.com](https://exchange.pool4ever.com)
+→ [pool4ever.com](https://pool4ever.com)
 
 ---
 
